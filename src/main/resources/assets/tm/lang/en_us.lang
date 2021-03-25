@@ -1,0 +1,38 @@
+//Items
+item.ingot_maxwellium.name=Maxwellium Ingot
+
+//Armour
+item.custom_helmet.name=Custom Model Helmet
+item.custom_chestplate.name=Custom Model Chestplate
+item.custom_leggings.name=Custom Model Leggings
+item.custom_boots.name=Custom Model Boots
+
+//Tools
+item.axe_maxwellium.name=Maxwellium Axe
+item.hoe_maxwellium.name=Maxwellium Hoe
+item.pickaxe_maxwellium.name=Maxwellium Pickaxe
+item.shovel_maxwellium.name=Maxwellium Shovel
+item.sword_maxwellium.name=Maxwellium Sword
+
+//Blocks
+tile.block_maxwellium.name=Maxwellium Block
+tile.ore_maxwellium.name=Maxwellium Ore
+
+//Machines
+tile.sintering_furnace.name=Sinterer
+tile.electric_sintering_furnace.name=Electric Sinterer
+tile.glowstone_generator.name=Glowstone Generator
+tile.energy_storage.name=Energy Storage
+
+//Containers
+container.copper_chest=Copper Chest
+container.sintering_furnace=Sinterer
+container.electric_sintering_furnace=Electric Sinterer
+container.glowstone_generator=Glowstone Generator
+container.energy_storage=Energy Storage
+
+//Creative Tabs
+itemGroup.tutorial=Tutorial Tab
+
+//Fluids
+fluid.molten_copper=Molten Copper
