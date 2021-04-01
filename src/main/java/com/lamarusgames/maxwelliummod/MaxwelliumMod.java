@@ -4,6 +4,7 @@ import com.lamarusgames.maxwelliummod.proxy.IProxy;
 import org.apache.logging.log4j.Logger;
 
 import com.lamarusgames.maxwelliummod.proxy.ServerProxy;
+import com.lamarusgames.maxwelliummod.proxy.ClientProxy;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
