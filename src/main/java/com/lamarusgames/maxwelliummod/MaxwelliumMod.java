@@ -21,8 +21,8 @@ public class MaxwelliumMod {
     public static final String VERSION = "1.0.0";
     public static final String MC_VERSION = "[1.12.2]";
 
-    public static final String CLIENT = "com/lamarusgames/maxwelliummod/proxy/ClientProxy.java";
-    public static final String SERVER = "com/lamarusgames/maxwelliummod/proxy/ServerProxy.java";
+    public static final String CLIENT = "com.lamarusgames.maxwelliummod.proxy.ClientProxy";
+    public static final String SERVER = "com.lamarusgames.maxwelliummod.proxy.ServerProxy";
 
     @SidedProxy(clientSide = MaxwelliumMod.CLIENT, serverSide = MaxwelliumMod.SERVER)
     public static IProxy proxy;

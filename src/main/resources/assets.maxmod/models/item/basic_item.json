@@ -4,6 +4,6 @@
 
     "textures": {
 
-        "layer0": "maxmod:items/basic_item"
+        "layer0": "maxmod:textures.items.basic_item"
     }
 }
